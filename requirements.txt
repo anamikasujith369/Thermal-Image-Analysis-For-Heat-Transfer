@@ -1,0 +1,23 @@
+# Core numerical and data processing
+numpy
+pandas
+
+# Image processing
+opencv-python
+Pillow
+
+# Deep learning
+torch
+torchvision
+
+# Machine learning
+scikit-learn
+
+# Data visualization
+matplotlib
+
+# Web application
+streamlit
+
+# Jupyter notebooks
+jupyter
