@@ -218,3 +218,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Thermal Image Analysis Project
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Trained model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Generated outputs
+outputs/
+runs/
+
+# Temporary files
+*.tmp
+*.log
